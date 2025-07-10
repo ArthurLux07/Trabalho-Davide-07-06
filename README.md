@@ -1,2 +1,0 @@
-# fullstack-ds
-estilizando site 
